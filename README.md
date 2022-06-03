@@ -1,4 +1,4 @@
-# MCC_Offloading_Techniques_Case_Study
+# MCC_Offloading_Techniques_White_Paper
 Offloading Techniques over Cloud
 
 In this paper, we have summarized various techniques of how to combine the idea of offloading in android devices with cloud computing. 
